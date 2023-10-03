@@ -27,35 +27,13 @@ This project has a Public Module and Admin Module. The Admin module is the side 
 - Submit Service Requests
 - Display About Us Content
 
-# SNAPSHOTS
-## Public Home Page
-![1 1](https://user-images.githubusercontent.com/114408369/193228389-8ff4c5db-e548-4e55-8de8-e553edd43ab9.png)
-
-## Service Details Modal (Public)
-![2](https://user-images.githubusercontent.com/114408369/193228905-72cb4cba-323a-44a5-bf20-388ec0cda4be.png)
-
-## Service Requests Form Modal (Public)
-![3](https://user-images.githubusercontent.com/114408369/193229010-753b2143-f3ac-4b7e-8c3c-3539651f41bb.png)
-
-## Admin Panel
-![4](https://user-images.githubusercontent.com/114408369/193230011-7e5d6a8e-15ee-4c01-8ff1-5bf62218a006.png)
-
-## Service Requests Details Modal (Admin)
-![5](https://user-images.githubusercontent.com/114408369/193230185-64834796-b9a2-4ad5-aabe-8a3a33abd939.png)
-
-## Admin Side Reports Page
-![6](https://user-images.githubusercontent.com/114408369/193230303-afbe63a4-c85f-4c7e-aae3-bedd0c95037a.png)
-
 # HOW TO RUN
 ## Requirements
 - Download and Install any local web server such as XAMPP/WAMP.
 - Download the provided source code zip file. (code button is located above)
 
-##Group
+## Group
 1. Username: miracleworkers
 2. Password: dreamers That's it! You can now explore the features and functionalities of this Car Service Center Management System project in PHP and MySQL Database. I hope this will 
    help you with what you are looking for and you'll find something useful for your future PHP Projects.
    
-# GitHub LIVE WEBSITE LINK
-Click the below link to Visit the live website 
-- https://suresh142.github.io/car_service_center/
